@@ -1,0 +1,11 @@
+C:\Users\Spravca\source\repos\OpenLab-Uloha-01.04\OpenLab-Uloha-02-01\bin\Debug\netcoreapp3.0\OpenLab-Uloha-02-01.exe
+C:\Users\Spravca\source\repos\OpenLab-Uloha-01.04\OpenLab-Uloha-02-01\bin\Debug\netcoreapp3.0\OpenLab-Uloha-02-01.deps.json
+C:\Users\Spravca\source\repos\OpenLab-Uloha-01.04\OpenLab-Uloha-02-01\bin\Debug\netcoreapp3.0\OpenLab-Uloha-02-01.runtimeconfig.json
+C:\Users\Spravca\source\repos\OpenLab-Uloha-01.04\OpenLab-Uloha-02-01\bin\Debug\netcoreapp3.0\OpenLab-Uloha-02-01.runtimeconfig.dev.json
+C:\Users\Spravca\source\repos\OpenLab-Uloha-01.04\OpenLab-Uloha-02-01\bin\Debug\netcoreapp3.0\OpenLab-Uloha-02-01.dll
+C:\Users\Spravca\source\repos\OpenLab-Uloha-01.04\OpenLab-Uloha-02-01\bin\Debug\netcoreapp3.0\OpenLab-Uloha-02-01.pdb
+C:\Users\Spravca\source\repos\OpenLab-Uloha-01.04\OpenLab-Uloha-02-01\obj\Debug\netcoreapp3.0\OpenLab-Uloha-02-01.csprojAssemblyReference.cache
+C:\Users\Spravca\source\repos\OpenLab-Uloha-01.04\OpenLab-Uloha-02-01\obj\Debug\netcoreapp3.0\OpenLab-Uloha-02-01.AssemblyInfoInputs.cache
+C:\Users\Spravca\source\repos\OpenLab-Uloha-01.04\OpenLab-Uloha-02-01\obj\Debug\netcoreapp3.0\OpenLab-Uloha-02-01.AssemblyInfo.cs
+C:\Users\Spravca\source\repos\OpenLab-Uloha-01.04\OpenLab-Uloha-02-01\obj\Debug\netcoreapp3.0\OpenLab-Uloha-02-01.dll
+C:\Users\Spravca\source\repos\OpenLab-Uloha-01.04\OpenLab-Uloha-02-01\obj\Debug\netcoreapp3.0\OpenLab-Uloha-02-01.pdb
